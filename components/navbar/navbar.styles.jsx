@@ -1,7 +1,7 @@
 import styled, { css } from 'styled-components'
 
 export const Nav = styled.nav`
-// test shitttttt
+// test shittttttttt
   position:fixed;
   display:flex;
   align-items:center;
