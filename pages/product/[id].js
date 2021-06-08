@@ -6,7 +6,7 @@ import Navbar from '../../components/navbar/navbar.component'
 import Footer from '../../components/footer/footer.component'
 import {useDataProducts} from '../../components/context/product/product.context'
 
-
+// test shiit
 function Product() {
   const products = useDataProducts();
   const router = useRouter()
