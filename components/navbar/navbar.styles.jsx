@@ -1,6 +1,7 @@
 import styled, { css } from 'styled-components'
 
 export const Nav = styled.nav`
+// test shit
   position:fixed;
   display:flex;
   align-items:center;
